@@ -4,7 +4,7 @@
 This repository hosts the code for CSC 207-01's "Sorting out sorting" mini-project at Grinnell College, Spring 2024. In this assignment, students explore and implement various sorting algorithms, engaging with different data structures and algorithm efficiencies.
 
 ## Author
-- Rommin Adl
+- Adl
 
 ## Resources Used
 - Chat-GPT
